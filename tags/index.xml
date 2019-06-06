@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Acacess - Let&#39;s Make Academia More Accessible</title>
-    <link>https://kross.netlify.com/tags/</link>
+    <link>https://ryantando.github.io/tags/</link>
     <description>Recent content in Tags on Acacess - Let&#39;s Make Academia More Accessible</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://kross.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ryantando.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
